@@ -38,18 +38,20 @@ theme:
 
 nav:
   - Intro: index.md
-  - What is Plex?: what-is-plex.md
-  - Is Plex safe to use?: plex-safety.md
-  - Pinning Libraries: pinning-libraries.md
-  - Managing Newsletter Subscriptions: unsubscribe-from-plex-newsletter.md
-  - Disabling Online Media Sources: disabling-online-media-sources.md
+  - Setup:
+    - What is Plex?: setup/what-is-plex.md
+    - Is Plex safe to use?: setup/plex-safety.md
+    - Pinning Libraries: setup/pinning-libraries.md
+    - Quality Settings:
+      - setup/quality-settings/index.md
+      - Smart TV: setup/quality-settings/smart-tv.md
+      - tvOS (Apple TV): setup/quality-settings/tv-os.md
+      - Android & iOS: setup/quality-settings/android-ios.md
+      - Web Browser: setup/quality-settings/web-browser.md
   - Requesting Content: requesting-content.md
-  - Changing Plex streaming quality:
-    - changing-stream-quality/index.md
-    - iOS & Android: changing-stream-quality/ios-android.md
-    - tvOS (Apple TV): changing-stream-quality/tv-os.md
-    - Amazon Fire TV, Android TV, PlayStation 4/5, Xbox, Roku, Smart TV (LG, Samsung, VIZIO): changing-stream-quality/streaming-devices.md
-    - Web Browser: changing-stream-quality/web-browser.md
+  - Recommended Settings:
+    - Managing Newsletter Subscriptions: unsubscribe-from-plex-newsletter.md
+    - Disabling Online Media Sources: disabling-online-media-sources.md
   - FAQ:
     - What is transcoding?: faq/what-is-transcoding.md
     - Why do I need to buy the Plex app on my phone?: faq/why-do-i-to-buy-plex-app.md
