@@ -13,7 +13,7 @@ After accepting your invitation to my Plex server, you'll need to pin my shared 
 
 !!! example "How-to: Pinning Libraries"
 
-    ![Example](assets/images/pinning-libraries-1.webp)
-    ![Example](assets/images/pinning-libraries-2.webp)
+    ![Example](../assets/images/pinning-libraries-1.webp)
+    ![Example](../assets/images/pinning-libraries-2.webp)
 
     **Source**: [plxplainers.xyz](https://www.plxplainers.xyz/)

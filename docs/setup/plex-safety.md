@@ -4,4 +4,4 @@ Yes, connecting to and using my Plex server is completely safe. Your connection 
 
 !!! example "Secure connection example"
 
-    ![Example](assets/images/secure-connections-example.webp)
+    ![Example](../assets/images/secure-connections-example.webp)

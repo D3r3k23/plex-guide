@@ -50,8 +50,8 @@ nav:
       - Web Browser: setup/quality-settings/web-browser.md
   - Requesting Content: requesting-content.md
   - Recommended Settings:
-    - Managing Newsletter Subscriptions: unsubscribe-from-plex-newsletter.md
-    - Disabling Online Media Sources: disabling-online-media-sources.md
+    - Managing Newsletter Subscriptions: recommended-settings/unsubscribe-from-plex-newsletter.md
+    - Disabling Online Media Sources: recommended-settings/disabling-online-media-sources.md
   - FAQ:
     - What is transcoding?: faq/what-is-transcoding.md
     - Why do I need to buy the Plex app on my phone?: faq/why-do-i-to-buy-plex-app.md
