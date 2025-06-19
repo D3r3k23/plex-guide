@@ -37,7 +37,7 @@ theme:
       accent: purple
 
 nav:
-  - Preamble: index.md
+  - Intro: index.md
   - What is Plex?: what-is-plex.md
   - Is Plex safe to use?: plex-safety.md
   - Pinning Libraries: pinning-libraries.md
@@ -117,10 +117,10 @@ extra:
       link: "https://github.com/{{ username }}"
       name: "{{ username }} @ Github"
     - icon: fontawesome/brands/discord
-      link: https://discord.com
+      link: https://discord.gg/kCBJffcK3N
       name: Discord Channel
     - icon: fontawesome/solid/globe
-      link: "https://{{ username }}.github.io/mkdocs-plex-guide-template/"
+      link: "https://github.com/{{ username }}"
       name: Personal Website
 
   vars:
