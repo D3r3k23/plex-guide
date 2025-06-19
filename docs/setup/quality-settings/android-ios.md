@@ -2,6 +2,6 @@
 
 !!! example "Android & iOS"
 
-    ![Example](../assets/images/change-stream-quality-android-ios.webp)
+    ![Example](../../assets/images/change-stream-quality-android-ios.webp)
 
     **Source**: [plxplainers.xyz](https://www.plxplainers.xyz/)

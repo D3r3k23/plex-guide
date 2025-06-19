@@ -4,6 +4,6 @@ Plex offers additional services like Live TV, Music, and Web Shows that you may 
 
 !!! example "How-to: Disabling Online Media Sources"
 
-    ![Example](assets/images/disable-online-media-sources.webp)
+    ![Example](../assets/images/disable-online-media-sources.webp)
 
     **Source**: [plxplainers.xyz](https://www.plxplainers.xyz/)

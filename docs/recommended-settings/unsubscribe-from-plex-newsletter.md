@@ -5,7 +5,7 @@ New Plex accounts are automatically subscribed to Plex's company newsletter. Thi
 
 !!! example "How-to: Unsubscribing from Plex's Newsletter"
 
-    ![Example](assets/images/unsubscribe-from-plex-newsletter.webp)
+    ![Example](../assets/images/unsubscribe-from-plex-newsletter.webp)
 
     **Source**: [plxplainers.xyz](https://www.plxplainers.xyz/)
 
@@ -19,4 +19,4 @@ If you'd like to unsubscribe from my newsletter, please contact me privately.
 
 !!! example ""
 
-    ![Example](assets/images/custom-newsletter.webp)
+    ![Example](../assets/images/custom-newsletter.webp)
