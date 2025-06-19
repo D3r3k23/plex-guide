@@ -1,4 +1,4 @@
-site_name: "{{ username }}.github.io"
+site_name: "Plex Guide"
 site_url: "https://{{ username }}.github.io"
 repo_url: "https://github.com/{{ username }}/{{ repo_name }}"
 repo_name: !ENV GITHUB_REPOSITORY
