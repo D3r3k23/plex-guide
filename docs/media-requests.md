@@ -1,4 +1,4 @@
-# Requesting Content
+# Media Requests
 
 You can request new Movies or TV Shows in two ways:
 
@@ -15,4 +15,24 @@ For more details about requesting content, check out these FAQ pages:
 - [I requested something an hour ago but it hasn't shown up yet. Why?](faq/missing-requests.md) - Release dates and availability within {{ vars.request_url }}
 - [I'm having a problem with a Movie or TV Show](faq/content-issues.md) - Reporting issues with Movies or TV Shows
 - [Content Quality and Language Options](faq/special-requests.md) - Media quality defaults, language tracks, and special content requests
-- [I don't want to use this request thingy, can't I just tell you what I want?](faq/i-dont-want-to-use-overseerr.md) - Why we use a request system
+- [I don't want to use this request thingy, can't I just tell you what I want?](faq/i-dont-want-to-use-jellyseerr.md) - Why we use a request system
+
+
+## Default Settings
+By default, all content on my Plex server has:
+
+- 1080p resolution
+- English audio track
+- English subtitles (when available)
+
+## Special Requests
+If you need any of the following, please contact me privately:
+
+- 4K versions
+- Specific audio languages
+- Additional subtitle languages
+- Alternate cuts or versions
+- Additional features such as DVD commentaries or extras
+
+!!! note
+    Special requests may take additional time to process and could require additional storage space. I'll do my best to accommodate your needs.

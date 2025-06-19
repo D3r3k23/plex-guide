@@ -41,6 +41,7 @@ nav:
   - Setup:
     - What is Plex?: setup/what-is-plex.md
     - Is Plex safe to use?: setup/plex-safety.md
+    - Using Plex: setup/using-plex.md
     - Pinning Libraries: setup/pinning-libraries.md
     - Quality Settings:
       - setup/quality-settings/index.md
@@ -48,25 +49,27 @@ nav:
       - tvOS (Apple TV): setup/quality-settings/tv-os.md
       - Android & iOS: setup/quality-settings/android-ios.md
       - Web Browser: setup/quality-settings/web-browser.md
-  - Requesting Content: requesting-content.md
-  - Recommended Settings:
-    - Managing Newsletter Subscriptions: recommended-settings/unsubscribe-from-plex-newsletter.md
-    - Disabling Online Media Sources: recommended-settings/disabling-online-media-sources.md
+  - Plex Libraries: plex-libraries.md
+  - Plex Collections: plex-collections.md
+  - Media Requests: media-requests.md
+  - Media Quality: media-quality.md
+  - Settings:
+    - Managing Newsletter Subscriptions: settings/unsubscribe-from-plex-newsletter.md
+    - Disabling Online Media Sources: settings/disabling-online-media-sources.md
   - FAQ:
-    - What is transcoding?: faq/what-is-transcoding.md
-    - Why do I need to buy the Plex app on my phone?: faq/why-do-i-to-buy-plex-app.md
-    - My video won't stop buffering: faq/wont-stop-buffering.md
-    - Help, I forgot my Plex password!: faq/forgot-password.md
-    - How do I add items to my Plex Universal Watchlist?: faq/adding-to-universal-watchlist.md
-    - Responsible Content Requesting: faq/responsible-content-requests.md
-    - I requested something an hour ago but it hasn't shown up yet. Why?: faq/missing-requests.md
     - I'm having a problem with a Movie or TV Show: faq/content-issues.md
-    - Content Quality and Language Options: faq/special-requests.md
-    - I don't want to use this request thingy, can't I just tell you what I want?: faq/i-dont-want-to-use-overseerr.md
-    - Missing Confirmation Emails: faq/missing-emails.md
+    - I requested something an hour ago but it hasn't shown up yet. Why?: faq/missing-requests.md
+    - How do I add items to my Plex Universal Watchlist?: faq/adding-to-universal-watchlist.md
+    - Why Bitrate Matters: faq/why-bitrate-matters.md
+    - What is transcoding?: faq/what-is-transcoding.md
+    - My video won't stop buffering: faq/wont-stop-buffering.md
+    - Why do I need to buy the Plex app on my phone?: faq/why-do-i-to-buy-plex-app.md
+    - Help, I forgot my Plex password!: faq/forgot-password.md
     - Can I share your Plex server with someone else?: faq/can-i-share-your-plex.md
     - Plex is awesome! Can I send you some money to support it?: faq/how-can-i-support-you.md
-    - Why Bitrate Matters: faq/why-bitrate-matters.md
+    - Responsible Content Requesting: faq/responsible-content-requests.md
+    - Missing Confirmation Emails: faq/missing-emails.md
+    - I don't want to use this request thingy, can't I just tell you what I want?: faq/i-dont-want-to-use-jellyseerr.md
   - Useful Links: useful-links.md
 
 plugins:
