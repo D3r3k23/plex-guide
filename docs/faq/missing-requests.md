@@ -1,4 +1,4 @@
-# I requested something an hour ago but it hasn't shown up yet. Why?
+# I requested something an hour ago but it hasn't shown up yet.
 
 When requesting content at [{{ vars.request_url }}](https://{{ vars.request_url }}), you'll see three important dates:
 

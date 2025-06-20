@@ -1,5 +1,5 @@
 site_name: "Plex Guide"
-site_url: "https://{{ username }}.github.io"
+site_url: "https://guide.{{ plex_url }}"
 repo_url: "https://github.com/{{ username }}/{{ repo_name }}"
 repo_name: !ENV GITHUB_REPOSITORY
 theme:
@@ -34,7 +34,7 @@ theme:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
       primary: amber
-      accent: orange
+      accent: deep orange
 
 nav:
   - Intro: index.md
@@ -62,13 +62,13 @@ nav:
   - FAQ:
     - How do I use subtitles?: faq/how-do-i-use-subtitles.md
     - How do I add items to the Watchlist?: faq/adding-to-watchlist.md
-    - I'm having a problem with a Movie or TV Show: faq/content-issues.md
-    - I requested something an hour ago but it hasn't shown up yet. Why?: faq/missing-requests.md
+    - I'm having a problem with a Movie or TV Show: faq/media-issues.md
+    - I requested something an hour ago but it hasn't shown up yet.: faq/missing-requests.md
     - My video won't stop buffering: faq/wont-stop-buffering.md
     - What is transcoding?: faq/what-is-transcoding.md
     - Why Bitrate Matters: faq/why-bitrate-matters.md
     - Can I listen to music/podcasts, store photos, or do other stuff?: faq/can-i-do-other-stuff.md
-    - Why do I need to buy the Plex app on my phone?: faq/why-do-i-to-buy-plex-app.md
+    - Do I need to buy a Plex Pass?: faq/do-i-need-to-buy-plex-pass.md
     - Help, I forgot my Plex password!: faq/forgot-password.md
     - Can I share your Plex server with someone else?: faq/can-i-share-your-plex.md
     - Plex is awesome! Can I send you some money to support it?: faq/how-can-i-support-you.md
@@ -131,7 +131,7 @@ extra:
       link: https://discord.gg/kCBJffcK3N
       name: Discord Channel
     - icon: fontawesome/solid/globe
-      link: "https://github.com/{{ username }}"
+      link: "https://dnode.me"
       name: Personal Website
 
   vars:
