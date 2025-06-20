@@ -28,13 +28,13 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
       primary: amber
-      accent: blue grey
+      accent: orange
     - scheme: default
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
       primary: amber
-      accent: purple
+      accent: orange
 
 nav:
   - Intro: index.md
