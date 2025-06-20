@@ -8,5 +8,6 @@
 - Search
 
 ## Watchlist
+[Adding items to watchlist](../faq/adding-to-watchlist.md)
 
 ## Downloads

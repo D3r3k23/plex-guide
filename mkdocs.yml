@@ -51,22 +51,27 @@ nav:
       - Web Browser: setup/quality-settings/web-browser.md
   - Plex Libraries: plex-libraries.md
   - Plex Collections: plex-collections.md
-  - Media Requests: media-requests.md
   - Media Quality: media-quality.md
+  - Media Requests:
+    - media-requests/index.md
+    - media-requests/jellyseerr.md
+    - media-requests/requestrr.md
   - Settings:
     - Managing Newsletter Subscriptions: settings/unsubscribe-from-plex-newsletter.md
     - Disabling Online Media Sources: settings/disabling-online-media-sources.md
   - FAQ:
+    - How do I use subtitles?: faq/how-do-i-use-subtitles.md
+    - How do I add items to the Watchlist?: faq/adding-to-watchlist.md
     - I'm having a problem with a Movie or TV Show: faq/content-issues.md
     - I requested something an hour ago but it hasn't shown up yet. Why?: faq/missing-requests.md
-    - How do I add items to my Plex Universal Watchlist?: faq/adding-to-universal-watchlist.md
-    - Why Bitrate Matters: faq/why-bitrate-matters.md
-    - What is transcoding?: faq/what-is-transcoding.md
     - My video won't stop buffering: faq/wont-stop-buffering.md
+    - What is transcoding?: faq/what-is-transcoding.md
+    - Why Bitrate Matters: faq/why-bitrate-matters.md
     - Why do I need to buy the Plex app on my phone?: faq/why-do-i-to-buy-plex-app.md
     - Help, I forgot my Plex password!: faq/forgot-password.md
     - Can I share your Plex server with someone else?: faq/can-i-share-your-plex.md
     - Plex is awesome! Can I send you some money to support it?: faq/how-can-i-support-you.md
+    - Where does media come from?: faq/where-does-media-come-from.md
     - Responsible Content Requesting: faq/responsible-content-requests.md
     - Missing Confirmation Emails: faq/missing-emails.md
     - I don't want to use this request thingy, can't I just tell you what I want?: faq/i-dont-want-to-use-jellyseerr.md
@@ -133,7 +138,7 @@ extra:
     repo_name: !ENV GITHUB_REPOSITORY
     request_url: "jellyseerr.dnode.me"
     plex_url: "plex.dnode.me"
-    plex_libraries: "Movies and Shows"
+    plex_libraries: "Movies, Shows"
     noreply_email: "noreply@example.com"
 
   env:

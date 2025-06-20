@@ -1,7 +1,6 @@
 ---
 title: Intro
 ---
-#
 
 ![Logo](assets/images/guide-logo-dark.webp#only-dark)
 ![Logo](assets/images/guide-logo-light.webp#only-light)
