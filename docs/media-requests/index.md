@@ -1,5 +1,11 @@
 # Media Requests
 
+Requests for movies are approved automatically, while need admin approval, since they take up more storage space and more often require manual intervention to download properly.
+
+Different quality profiles can be selected. The default is HD Bluray (1080p). Make sure to select a **UHD** profile if you want to watch 4K content.
+
+Movies and shows that aren't yet released can still be requested, and then will be downloaded as soon as it is available. Sometimes bootlegs of movies still showing in cinemas will be found, but they're usually low quality.
+
 You can request new Movies or TV Shows in two ways:
 
 1. Visit [{{ vars.request_url }}](https://{{ vars.request_url }}) to make direct requests. These are typically approved within 10-15 minutes, and if the content has been released digitally, it will be ready to stream on Plex within 10 minutes.

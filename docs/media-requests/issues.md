@@ -1,8 +1,8 @@
-# I'm having a problem with a Movie or TV Show
+# Issues
 
 If you encounter any problems with content (such as distorted video, incorrect media, double images, or misaligned subtitles), you have two ways to report it:
 
-## Using Overseerr (Preferred Method)
+## Using Jellyseerr (Preferred Method)
 
    1. Visit [{{ vars.request_url }}](https://{{ vars.request_url }})
    2. Find the problematic Movie or TV Show
@@ -13,10 +13,10 @@ If you encounter any problems with content (such as distorted video, incorrect m
 
 !!! example "Reporting issues within Overseerr"
     <center><video style="width:65%" controls="true" alt="type:video">
-        <source src="../../assets/video/overseerr-reporting-issues.webm" type="video/webm">
+        <source src="../assets/video/jellyseerr-reporting-issues.webm" type="video/webm">
     </video></center>
 
-## Why use Overseerr for reporting?
+## Why use Jellyseerr for reporting?
 
 - Creates a documented history of the issue
 - Helps me track problems I can't fix immediately

@@ -55,6 +55,7 @@ nav:
   - Media Requests:
     - media-requests/index.md
     - media-requests/jellyseerr.md
+    - media-requests/issues.md
     - media-requests/requestrr.md
   - Settings:
     - Managing Newsletter Subscriptions: settings/unsubscribe-from-plex-newsletter.md
@@ -62,7 +63,6 @@ nav:
   - FAQ:
     - How do I use subtitles?: faq/how-do-i-use-subtitles.md
     - How do I add items to the Watchlist?: faq/adding-to-watchlist.md
-    - I'm having a problem with a Movie or TV Show: faq/media-issues.md
     - I requested something an hour ago but it hasn't shown up yet.: faq/missing-requests.md
     - My video won't stop buffering: faq/wont-stop-buffering.md
     - What is transcoding?: faq/what-is-transcoding.md
