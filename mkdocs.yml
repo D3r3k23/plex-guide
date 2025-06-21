@@ -38,7 +38,7 @@ theme:
 
 nav:
   - Intro: index.md
-  - What is Plex?: setup/what-is-plex.md
+  - What is Plex?: what-is-plex.md
   - Setup:
     - Setup: setup/index.md
     - Using Plex: setup/using-plex.md

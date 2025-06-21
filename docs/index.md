@@ -9,4 +9,4 @@ This guide contains all of the information you need when using my Plex server. T
 
 I recommend switching to a web browser to make the changes. All settings in this guide will sync across your devices and only need to be configured once, with one important exception: Plex streaming quality must be set separately the first time you log into each new Plex application.
 
-If you're new to the server, read the pages in the [Setup](setup/what-is-plex.md) section to learn how to use the server.
+If you're new to the server, please read through the [Setup](setup/what-is-plex.md) section to learn how to use the server.
