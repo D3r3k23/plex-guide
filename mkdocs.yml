@@ -38,9 +38,9 @@ theme:
 
 nav:
   - Intro: index.md
+  - What is Plex?: setup/what-is-plex.md
   - Setup:
-    - What is Plex?: setup/what-is-plex.md
-    - Is Plex safe to use?: setup/plex-safety.md
+    - Setup: setup/index.md
     - Using Plex: setup/using-plex.md
     - Pinning Libraries: setup/pinning-libraries.md
     - Quality Settings:
@@ -62,6 +62,7 @@ nav:
     - Disabling Online Media Sources: settings/disabling-online-media-sources.md
   - Clients & Hardware: clients-hardware.md
   - FAQ:
+    - Is Plex safe to use?: faq/plex-safety.md
     - How do I use subtitles?: faq/how-do-i-use-subtitles.md
     - How do I add items to the Watchlist?: faq/adding-to-watchlist.md
     - I requested something an hour ago but it hasn't shown up yet.: faq/missing-requests.md

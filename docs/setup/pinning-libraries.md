@@ -18,4 +18,4 @@ You can choose additional [libraries](../plex-libraries.md) beyond just **Movies
     ![Example](../assets/images/pinning-libraries-1.webp)
     ![Example](../assets/images/pinning-libraries-2.webp)
 
-    **Source**: [plxplainers.xyz](https://www.plxplainers.xyz/)
+    **Source**: [plxplainers.xyz](https://www.plxplainers.xyz)

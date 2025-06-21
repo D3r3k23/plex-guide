@@ -19,7 +19,7 @@ For more details about requesting content, check out these FAQ pages:
 
 - [Responsible Content Requesting](../faq/responsible-content-requests.md) - Understanding how the server works and best practices when requesting content
 - [I requested something an hour ago but it hasn't shown up yet. Why?](../faq/missing-requests.md) - Release dates and availability within {{ vars.request_url }}
-- [I'm having a problem with a Movie or TV Show](../faq/media-issues.md) - Reporting issues with Movies or TV Shows
+- [I'm having a problem with a Movie or TV Show](issues.md) - Reporting issues with Movies or TV Shows
 - [I don't want to use this request thingy, can't I just tell you what I want?](../faq/i-dont-want-to-use-jellyseerr.md) - Why we use a request system
 
 
