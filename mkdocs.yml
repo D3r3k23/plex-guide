@@ -60,10 +60,12 @@ nav:
   - Settings:
     - Managing Newsletter Subscriptions: settings/unsubscribe-from-plex-newsletter.md
     - Disabling Online Media Sources: settings/disabling-online-media-sources.md
+  - Clients & Hardware: clients-hardware.md
   - FAQ:
     - How do I use subtitles?: faq/how-do-i-use-subtitles.md
     - How do I add items to the Watchlist?: faq/adding-to-watchlist.md
     - I requested something an hour ago but it hasn't shown up yet.: faq/missing-requests.md
+    - The Plex app isn't working: faq/client-issues.md
     - My video won't stop buffering: faq/wont-stop-buffering.md
     - What is transcoding?: faq/what-is-transcoding.md
     - Why Bitrate Matters: faq/why-bitrate-matters.md

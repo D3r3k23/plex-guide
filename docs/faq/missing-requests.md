@@ -2,7 +2,7 @@
 
 When requesting content at [{{ vars.request_url }}](https://{{ vars.request_url }}), you'll see three important dates:
 
-![Overseerr Release Dates](../assets/images/overseerr-release-dates.webp){ width="320" }
+![Overseerr Release Dates](../assets/images/jellyseerr-release-dates.webp){ width="320" }
 /// caption
 Release dates within {{ vars.request_url }}
 ///
